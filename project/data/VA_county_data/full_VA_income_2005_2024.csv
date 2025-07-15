@@ -1,0 +1,1901 @@
+State,County,Year,Median_Household_Income
+Virginia,Accomack,2005,42671.29
+Virginia,Accomack,2006,44109.37
+Virginia,Accomack,2007,44928.03
+Virginia,Accomack,2008,46289.27
+Virginia,Accomack,2009,47201.36
+Virginia,Accomack,2010,48275.96
+Virginia,Accomack,2011,48986.53
+Virginia,Accomack,2012,50437.59
+Virginia,Accomack,2013,51675.26
+Virginia,Accomack,2014,52057.39
+Virginia,Accomack,2015,53335.15
+Virginia,Accomack,2016,53251.55
+Virginia,Accomack,2017,54202.35
+Virginia,Accomack,2018,54314.33
+Virginia,Accomack,2019,55230.76
+Virginia,Accomack,2020,55687.33
+Virginia,Accomack,2021,55996.23
+Virginia,Accomack,2022,57343.85
+Virginia,Accomack,2023,58179.4
+Virginia,Accomack,2024,58948.17
+Virginia,Albemarle,2005,43568.06
+Virginia,Albemarle,2006,44056.3
+Virginia,Albemarle,2007,44210.24
+Virginia,Albemarle,2008,44819.74
+Virginia,Albemarle,2009,45575.82
+Virginia,Albemarle,2010,46373.09
+Virginia,Albemarle,2011,47651.8
+Virginia,Albemarle,2012,48193.55
+Virginia,Albemarle,2013,48784.73
+Virginia,Albemarle,2014,50088.22
+Virginia,Albemarle,2015,50044.42
+Virginia,Albemarle,2016,50982.67
+Virginia,Albemarle,2017,52101.78
+Virginia,Albemarle,2018,52337.38
+Virginia,Albemarle,2019,53637.03
+Virginia,Albemarle,2020,54810.68
+Virginia,Albemarle,2021,56296.8
+Virginia,Albemarle,2022,57714.87
+Virginia,Albemarle,2023,59212.35
+Virginia,Albemarle,2024,61231.83
+Virginia,Alleghany,2005,56315.4
+Virginia,Alleghany,2006,57050.42
+Virginia,Alleghany,2007,57915.14
+Virginia,Alleghany,2008,58445.36
+Virginia,Alleghany,2009,59539.91
+Virginia,Alleghany,2010,59888.0
+Virginia,Alleghany,2011,61104.12
+Virginia,Alleghany,2012,62009.98
+Virginia,Alleghany,2013,63022.1
+Virginia,Alleghany,2014,63378.25
+Virginia,Alleghany,2015,64970.37
+Virginia,Alleghany,2016,65783.69
+Virginia,Alleghany,2017,66241.63
+Virginia,Alleghany,2018,67379.41
+Virginia,Alleghany,2019,68422.49
+Virginia,Alleghany,2020,68865.95
+Virginia,Alleghany,2021,69734.51
+Virginia,Alleghany,2022,71285.47
+Virginia,Alleghany,2023,72534.08
+Virginia,Alleghany,2024,73802.17
+Virginia,Amelia,2005,44368.25
+Virginia,Amelia,2006,45290.41
+Virginia,Amelia,2007,45894.56
+Virginia,Amelia,2008,47429.69
+Virginia,Amelia,2009,47925.06
+Virginia,Amelia,2010,48903.9
+Virginia,Amelia,2011,49694.45
+Virginia,Amelia,2012,51107.26
+Virginia,Amelia,2013,51750.7
+Virginia,Amelia,2014,53639.25
+Virginia,Amelia,2015,55485.94
+Virginia,Amelia,2016,56508.71
+Virginia,Amelia,2017,57419.91
+Virginia,Amelia,2018,57913.92
+Virginia,Amelia,2019,58600.08
+Virginia,Amelia,2020,59404.71
+Virginia,Amelia,2021,60179.03
+Virginia,Amelia,2022,61247.71
+Virginia,Amelia,2023,62257.43
+Virginia,Amelia,2024,61801.9
+Virginia,Amherst,2005,51578.29
+Virginia,Amherst,2006,51972.6
+Virginia,Amherst,2007,53080.19
+Virginia,Amherst,2008,53524.86
+Virginia,Amherst,2009,54444.39
+Virginia,Amherst,2010,55552.99
+Virginia,Amherst,2011,55763.07
+Virginia,Amherst,2012,56906.58
+Virginia,Amherst,2013,58927.99
+Virginia,Amherst,2014,59645.77
+Virginia,Amherst,2015,61027.48
+Virginia,Amherst,2016,61115.63
+Virginia,Amherst,2017,60985.63
+Virginia,Amherst,2018,61800.18
+Virginia,Amherst,2019,63051.3
+Virginia,Amherst,2020,63793.78
+Virginia,Amherst,2021,65585.6
+Virginia,Amherst,2022,66083.8
+Virginia,Amherst,2023,66925.81
+Virginia,Amherst,2024,67549.42
+Virginia,Appomattox,2005,47756.04
+Virginia,Appomattox,2006,47696.29
+Virginia,Appomattox,2007,48753.58
+Virginia,Appomattox,2008,49331.49
+Virginia,Appomattox,2009,50421.67
+Virginia,Appomattox,2010,50076.06
+Virginia,Appomattox,2011,51025.69
+Virginia,Appomattox,2012,51568.69
+Virginia,Appomattox,2013,53223.99
+Virginia,Appomattox,2014,54349.18
+Virginia,Appomattox,2015,55321.03
+Virginia,Appomattox,2016,56737.01
+Virginia,Appomattox,2017,57779.69
+Virginia,Appomattox,2018,59397.86
+Virginia,Appomattox,2019,60801.37
+Virginia,Appomattox,2020,61317.46
+Virginia,Appomattox,2021,62837.82
+Virginia,Appomattox,2022,64604.11
+Virginia,Appomattox,2023,65597.97
+Virginia,Appomattox,2024,66972.9
+Virginia,Arlington,2005,45192.6
+Virginia,Arlington,2006,46261.26
+Virginia,Arlington,2007,47200.14
+Virginia,Arlington,2008,48460.77
+Virginia,Arlington,2009,48386.68
+Virginia,Arlington,2010,50244.86
+Virginia,Arlington,2011,52012.56
+Virginia,Arlington,2012,53493.62
+Virginia,Arlington,2013,54033.35
+Virginia,Arlington,2014,55330.11
+Virginia,Arlington,2015,55893.78
+Virginia,Arlington,2016,56641.42
+Virginia,Arlington,2017,57591.93
+Virginia,Arlington,2018,58292.8
+Virginia,Arlington,2019,59817.97
+Virginia,Arlington,2020,60829.37
+Virginia,Arlington,2021,61752.52
+Virginia,Arlington,2022,62250.31
+Virginia,Arlington,2023,63132.28
+Virginia,Arlington,2024,63604.0
+Virginia,Augusta,2005,55331.42
+Virginia,Augusta,2006,56059.39
+Virginia,Augusta,2007,57095.01
+Virginia,Augusta,2008,58717.97
+Virginia,Augusta,2009,59411.85
+Virginia,Augusta,2010,60523.08
+Virginia,Augusta,2011,61447.0
+Virginia,Augusta,2012,62311.59
+Virginia,Augusta,2013,63640.0
+Virginia,Augusta,2014,65453.19
+Virginia,Augusta,2015,66913.19
+Virginia,Augusta,2016,67595.97
+Virginia,Augusta,2017,67892.48
+Virginia,Augusta,2018,68831.33
+Virginia,Augusta,2019,69926.18
+Virginia,Augusta,2020,70783.94
+Virginia,Augusta,2021,71617.09
+Virginia,Augusta,2022,72619.82
+Virginia,Augusta,2023,73526.07
+Virginia,Augusta,2024,73824.53
+Virginia,Bath,2005,44296.65
+Virginia,Bath,2006,46361.63
+Virginia,Bath,2007,46919.58
+Virginia,Bath,2008,46882.21
+Virginia,Bath,2009,48563.09
+Virginia,Bath,2010,49277.7
+Virginia,Bath,2011,50640.36
+Virginia,Bath,2012,51682.85
+Virginia,Bath,2013,53240.45
+Virginia,Bath,2014,54300.49
+Virginia,Bath,2015,54938.75
+Virginia,Bath,2016,55017.7
+Virginia,Bath,2017,55240.48
+Virginia,Bath,2018,56652.24
+Virginia,Bath,2019,56787.4
+Virginia,Bath,2020,56883.56
+Virginia,Bath,2021,58314.99
+Virginia,Bath,2022,59247.78
+Virginia,Bath,2023,59662.02
+Virginia,Bath,2024,61595.52
+Virginia,Bedford,2005,52511.76
+Virginia,Bedford,2006,53520.04
+Virginia,Bedford,2007,54231.46
+Virginia,Bedford,2008,55585.12
+Virginia,Bedford,2009,56381.42
+Virginia,Bedford,2010,58341.94
+Virginia,Bedford,2011,59185.91
+Virginia,Bedford,2012,59818.69
+Virginia,Bedford,2013,59986.75
+Virginia,Bedford,2014,60729.06
+Virginia,Bedford,2015,61836.98
+Virginia,Bedford,2016,62522.64
+Virginia,Bedford,2017,63146.71
+Virginia,Bedford,2018,64513.44
+Virginia,Bedford,2019,65521.64
+Virginia,Bedford,2020,66830.52
+Virginia,Bedford,2021,68312.79
+Virginia,Bedford,2022,68981.1
+Virginia,Bedford,2023,69408.54
+Virginia,Bedford,2024,70616.6
+Virginia,Bland,2005,56969.51
+Virginia,Bland,2006,57931.05
+Virginia,Bland,2007,60103.79
+Virginia,Bland,2008,61563.66
+Virginia,Bland,2009,62018.5
+Virginia,Bland,2010,63112.82
+Virginia,Bland,2011,64247.36
+Virginia,Bland,2012,66524.59
+Virginia,Bland,2013,68306.18
+Virginia,Bland,2014,69125.78
+Virginia,Bland,2015,69871.91
+Virginia,Bland,2016,71100.63
+Virginia,Bland,2017,71940.2
+Virginia,Bland,2018,72763.19
+Virginia,Bland,2019,73928.75
+Virginia,Bland,2020,74441.86
+Virginia,Bland,2021,75824.82
+Virginia,Bland,2022,76943.09
+Virginia,Bland,2023,77559.37
+Virginia,Bland,2024,78304.67
+Virginia,Botetourt,2005,43410.59
+Virginia,Botetourt,2006,44659.73
+Virginia,Botetourt,2007,45717.64
+Virginia,Botetourt,2008,46552.57
+Virginia,Botetourt,2009,47701.56
+Virginia,Botetourt,2010,47832.0
+Virginia,Botetourt,2011,48974.82
+Virginia,Botetourt,2012,49689.63
+Virginia,Botetourt,2013,51214.03
+Virginia,Botetourt,2014,51064.99
+Virginia,Botetourt,2015,51849.08
+Virginia,Botetourt,2016,53122.45
+Virginia,Botetourt,2017,54081.56
+Virginia,Botetourt,2018,54319.72
+Virginia,Botetourt,2019,55286.96
+Virginia,Botetourt,2020,56749.22
+Virginia,Botetourt,2021,57837.46
+Virginia,Botetourt,2022,58123.85
+Virginia,Botetourt,2023,59368.77
+Virginia,Botetourt,2024,60628.66
+Virginia,Brunswick,2005,52810.55
+Virginia,Brunswick,2006,53643.09
+Virginia,Brunswick,2007,55103.83
+Virginia,Brunswick,2008,56432.65
+Virginia,Brunswick,2009,57340.89
+Virginia,Brunswick,2010,58413.34
+Virginia,Brunswick,2011,59113.5
+Virginia,Brunswick,2012,61155.89
+Virginia,Brunswick,2013,61111.33
+Virginia,Brunswick,2014,62067.56
+Virginia,Brunswick,2015,62269.24
+Virginia,Brunswick,2016,63542.43
+Virginia,Brunswick,2017,64748.11
+Virginia,Brunswick,2018,65777.12
+Virginia,Brunswick,2019,66567.57
+Virginia,Brunswick,2020,67844.59
+Virginia,Brunswick,2021,67667.42
+Virginia,Brunswick,2022,68662.76
+Virginia,Brunswick,2023,69708.46
+Virginia,Brunswick,2024,69992.29
+Virginia,Buchanan,2005,42100.15
+Virginia,Buchanan,2006,42794.29
+Virginia,Buchanan,2007,44307.28
+Virginia,Buchanan,2008,45706.21
+Virginia,Buchanan,2009,47028.97
+Virginia,Buchanan,2010,47727.43
+Virginia,Buchanan,2011,48412.28
+Virginia,Buchanan,2012,49543.8
+Virginia,Buchanan,2013,50431.0
+Virginia,Buchanan,2014,51858.46
+Virginia,Buchanan,2015,52463.2
+Virginia,Buchanan,2016,53611.01
+Virginia,Buchanan,2017,54131.06
+Virginia,Buchanan,2018,54992.22
+Virginia,Buchanan,2019,56728.45
+Virginia,Buchanan,2020,58041.87
+Virginia,Buchanan,2021,58892.56
+Virginia,Buchanan,2022,59446.46
+Virginia,Buchanan,2023,60581.71
+Virginia,Buchanan,2024,61881.24
+Virginia,Buckingham,2005,58682.72
+Virginia,Buckingham,2006,59747.25
+Virginia,Buckingham,2007,60364.1
+Virginia,Buckingham,2008,61891.94
+Virginia,Buckingham,2009,62800.56
+Virginia,Buckingham,2010,63763.64
+Virginia,Buckingham,2011,64136.4
+Virginia,Buckingham,2012,65633.84
+Virginia,Buckingham,2013,65947.02
+Virginia,Buckingham,2014,66821.62
+Virginia,Buckingham,2015,68053.7
+Virginia,Buckingham,2016,68226.17
+Virginia,Buckingham,2017,68614.05
+Virginia,Buckingham,2018,68616.32
+Virginia,Buckingham,2019,69165.56
+Virginia,Buckingham,2020,70031.78
+Virginia,Buckingham,2021,70182.85
+Virginia,Buckingham,2022,71464.6
+Virginia,Buckingham,2023,72586.86
+Virginia,Buckingham,2024,73634.22
+Virginia,Campbell,2005,50399.63
+Virginia,Campbell,2006,51824.03
+Virginia,Campbell,2007,52371.26
+Virginia,Campbell,2008,52927.39
+Virginia,Campbell,2009,54286.55
+Virginia,Campbell,2010,55846.86
+Virginia,Campbell,2011,57100.31
+Virginia,Campbell,2012,57461.85
+Virginia,Campbell,2013,58250.05
+Virginia,Campbell,2014,59675.64
+Virginia,Campbell,2015,60814.89
+Virginia,Campbell,2016,60965.5
+Virginia,Campbell,2017,61115.7
+Virginia,Campbell,2018,62646.53
+Virginia,Campbell,2019,63854.75
+Virginia,Campbell,2020,64747.96
+Virginia,Campbell,2021,66036.18
+Virginia,Campbell,2022,66566.12
+Virginia,Campbell,2023,67613.28
+Virginia,Campbell,2024,68725.7
+Virginia,Caroline,2005,43726.22
+Virginia,Caroline,2006,44778.3
+Virginia,Caroline,2007,46380.44
+Virginia,Caroline,2008,47474.06
+Virginia,Caroline,2009,49009.19
+Virginia,Caroline,2010,49874.77
+Virginia,Caroline,2011,50519.53
+Virginia,Caroline,2012,50744.26
+Virginia,Caroline,2013,52726.0
+Virginia,Caroline,2014,53806.48
+Virginia,Caroline,2015,54664.02
+Virginia,Caroline,2016,55840.5
+Virginia,Caroline,2017,57178.72
+Virginia,Caroline,2018,59243.14
+Virginia,Caroline,2019,59748.6
+Virginia,Caroline,2020,60878.89
+Virginia,Caroline,2021,61372.01
+Virginia,Caroline,2022,62630.48
+Virginia,Caroline,2023,64265.51
+Virginia,Caroline,2024,64933.79
+Virginia,Carroll,2005,49400.53
+Virginia,Carroll,2006,51050.61
+Virginia,Carroll,2007,52314.44
+Virginia,Carroll,2008,53172.85
+Virginia,Carroll,2009,53900.92
+Virginia,Carroll,2010,55381.2
+Virginia,Carroll,2011,55946.83
+Virginia,Carroll,2012,57684.72
+Virginia,Carroll,2013,58991.86
+Virginia,Carroll,2014,60191.82
+Virginia,Carroll,2015,61514.66
+Virginia,Carroll,2016,63486.01
+Virginia,Carroll,2017,64014.87
+Virginia,Carroll,2018,64741.68
+Virginia,Carroll,2019,65420.73
+Virginia,Carroll,2020,66865.53
+Virginia,Carroll,2021,67666.18
+Virginia,Carroll,2022,68694.58
+Virginia,Carroll,2023,68725.37
+Virginia,Carroll,2024,69701.34
+Virginia,Charles City,2005,55470.89
+Virginia,Charles City,2006,55762.77
+Virginia,Charles City,2007,57139.84
+Virginia,Charles City,2008,58871.84
+Virginia,Charles City,2009,59558.39
+Virginia,Charles City,2010,60373.44
+Virginia,Charles City,2011,60919.27
+Virginia,Charles City,2012,62583.83
+Virginia,Charles City,2013,62679.13
+Virginia,Charles City,2014,63147.3
+Virginia,Charles City,2015,63752.99
+Virginia,Charles City,2016,64431.04
+Virginia,Charles City,2017,65440.42
+Virginia,Charles City,2018,66578.46
+Virginia,Charles City,2019,67909.77
+Virginia,Charles City,2020,68776.97
+Virginia,Charles City,2021,70293.97
+Virginia,Charles City,2022,70392.59
+Virginia,Charles City,2023,71427.73
+Virginia,Charles City,2024,71935.94
+Virginia,Charlotte,2005,54217.61
+Virginia,Charlotte,2006,55182.7
+Virginia,Charlotte,2007,55931.27
+Virginia,Charlotte,2008,56483.51
+Virginia,Charlotte,2009,56861.86
+Virginia,Charlotte,2010,58038.27
+Virginia,Charlotte,2011,58690.88
+Virginia,Charlotte,2012,59973.84
+Virginia,Charlotte,2013,61215.97
+Virginia,Charlotte,2014,61249.57
+Virginia,Charlotte,2015,62016.25
+Virginia,Charlotte,2016,62582.3
+Virginia,Charlotte,2017,63701.05
+Virginia,Charlotte,2018,64578.48
+Virginia,Charlotte,2019,65581.42
+Virginia,Charlotte,2020,66632.66
+Virginia,Charlotte,2021,67815.79
+Virginia,Charlotte,2022,69148.26
+Virginia,Charlotte,2023,70325.7
+Virginia,Charlotte,2024,70652.46
+Virginia,Chesterfield,2005,51093.64
+Virginia,Chesterfield,2006,51636.69
+Virginia,Chesterfield,2007,52481.12
+Virginia,Chesterfield,2008,53559.79
+Virginia,Chesterfield,2009,55243.52
+Virginia,Chesterfield,2010,56829.29
+Virginia,Chesterfield,2011,57671.19
+Virginia,Chesterfield,2012,57854.61
+Virginia,Chesterfield,2013,58477.1
+Virginia,Chesterfield,2014,59302.97
+Virginia,Chesterfield,2015,59259.29
+Virginia,Chesterfield,2016,59227.5
+Virginia,Chesterfield,2017,60577.21
+Virginia,Chesterfield,2018,61647.68
+Virginia,Chesterfield,2019,62507.54
+Virginia,Chesterfield,2020,62770.93
+Virginia,Chesterfield,2021,63660.62
+Virginia,Chesterfield,2022,64467.94
+Virginia,Chesterfield,2023,64700.36
+Virginia,Chesterfield,2024,66133.11
+Virginia,Clarke,2005,46736.6
+Virginia,Clarke,2006,48414.76
+Virginia,Clarke,2007,49926.22
+Virginia,Clarke,2008,51861.99
+Virginia,Clarke,2009,52911.54
+Virginia,Clarke,2010,54126.25
+Virginia,Clarke,2011,54863.3
+Virginia,Clarke,2012,56027.12
+Virginia,Clarke,2013,56200.12
+Virginia,Clarke,2014,56901.98
+Virginia,Clarke,2015,57606.22
+Virginia,Clarke,2016,59452.42
+Virginia,Clarke,2017,60478.04
+Virginia,Clarke,2018,61575.53
+Virginia,Clarke,2019,62901.73
+Virginia,Clarke,2020,63620.59
+Virginia,Clarke,2021,64756.41
+Virginia,Clarke,2022,65834.48
+Virginia,Clarke,2023,66250.64
+Virginia,Clarke,2024,67671.59
+Virginia,Craig,2005,42026.72
+Virginia,Craig,2006,42650.0
+Virginia,Craig,2007,43431.03
+Virginia,Craig,2008,44240.11
+Virginia,Craig,2009,44286.12
+Virginia,Craig,2010,45964.36
+Virginia,Craig,2011,46608.43
+Virginia,Craig,2012,47124.69
+Virginia,Craig,2013,48459.36
+Virginia,Craig,2014,49488.52
+Virginia,Craig,2015,49957.61
+Virginia,Craig,2016,51979.88
+Virginia,Craig,2017,51568.26
+Virginia,Craig,2018,53029.46
+Virginia,Craig,2019,54833.54
+Virginia,Craig,2020,56223.22
+Virginia,Craig,2021,56592.74
+Virginia,Craig,2022,56781.39
+Virginia,Craig,2023,57113.82
+Virginia,Craig,2024,58478.64
+Virginia,Culpeper,2005,55900.21
+Virginia,Culpeper,2006,56577.8
+Virginia,Culpeper,2007,56890.67
+Virginia,Culpeper,2008,58331.46
+Virginia,Culpeper,2009,58924.38
+Virginia,Culpeper,2010,60054.71
+Virginia,Culpeper,2011,61683.34
+Virginia,Culpeper,2012,62269.39
+Virginia,Culpeper,2013,63698.83
+Virginia,Culpeper,2014,64888.79
+Virginia,Culpeper,2015,66288.5
+Virginia,Culpeper,2016,67444.5
+Virginia,Culpeper,2017,68893.38
+Virginia,Culpeper,2018,70039.81
+Virginia,Culpeper,2019,71803.67
+Virginia,Culpeper,2020,72462.52
+Virginia,Culpeper,2021,73453.58
+Virginia,Culpeper,2022,74343.41
+Virginia,Culpeper,2023,75594.07
+Virginia,Culpeper,2024,76840.55
+Virginia,Cumberland,2005,56842.79
+Virginia,Cumberland,2006,58204.57
+Virginia,Cumberland,2007,58945.42
+Virginia,Cumberland,2008,59838.31
+Virginia,Cumberland,2009,60989.1
+Virginia,Cumberland,2010,61653.48
+Virginia,Cumberland,2011,62235.89
+Virginia,Cumberland,2012,63705.77
+Virginia,Cumberland,2013,65244.47
+Virginia,Cumberland,2014,66763.16
+Virginia,Cumberland,2015,67081.67
+Virginia,Cumberland,2016,67891.7
+Virginia,Cumberland,2017,68861.1
+Virginia,Cumberland,2018,69758.38
+Virginia,Cumberland,2019,70244.89
+Virginia,Cumberland,2020,71337.4
+Virginia,Cumberland,2021,72676.54
+Virginia,Cumberland,2022,74255.1
+Virginia,Cumberland,2023,75807.57
+Virginia,Cumberland,2024,76525.73
+Virginia,Dickenson,2005,56405.68
+Virginia,Dickenson,2006,57854.25
+Virginia,Dickenson,2007,59188.44
+Virginia,Dickenson,2008,59676.48
+Virginia,Dickenson,2009,60221.42
+Virginia,Dickenson,2010,60991.77
+Virginia,Dickenson,2011,61598.5
+Virginia,Dickenson,2012,62908.6
+Virginia,Dickenson,2013,62778.86
+Virginia,Dickenson,2014,63388.64
+Virginia,Dickenson,2015,63759.39
+Virginia,Dickenson,2016,64767.53
+Virginia,Dickenson,2017,66393.97
+Virginia,Dickenson,2018,67967.97
+Virginia,Dickenson,2019,68650.95
+Virginia,Dickenson,2020,69689.39
+Virginia,Dickenson,2021,70861.38
+Virginia,Dickenson,2022,72397.92
+Virginia,Dickenson,2023,74214.43
+Virginia,Dickenson,2024,74887.12
+Virginia,Dinwiddie,2005,56272.65
+Virginia,Dinwiddie,2006,56529.62
+Virginia,Dinwiddie,2007,57773.96
+Virginia,Dinwiddie,2008,60246.09
+Virginia,Dinwiddie,2009,61520.43
+Virginia,Dinwiddie,2010,63656.25
+Virginia,Dinwiddie,2011,64946.85
+Virginia,Dinwiddie,2012,66616.05
+Virginia,Dinwiddie,2013,67563.86
+Virginia,Dinwiddie,2014,68371.87
+Virginia,Dinwiddie,2015,69730.03
+Virginia,Dinwiddie,2016,70087.56
+Virginia,Dinwiddie,2017,69677.2
+Virginia,Dinwiddie,2018,70535.59
+Virginia,Dinwiddie,2019,70405.57
+Virginia,Dinwiddie,2020,71178.13
+Virginia,Dinwiddie,2021,72283.77
+Virginia,Dinwiddie,2022,73290.59
+Virginia,Dinwiddie,2023,73868.01
+Virginia,Dinwiddie,2024,75404.29
+Virginia,Essex,2005,56889.14
+Virginia,Essex,2006,57344.7
+Virginia,Essex,2007,57961.55
+Virginia,Essex,2008,58427.08
+Virginia,Essex,2009,59516.16
+Virginia,Essex,2010,61079.61
+Virginia,Essex,2011,62147.49
+Virginia,Essex,2012,62455.68
+Virginia,Essex,2013,62901.95
+Virginia,Essex,2014,63604.97
+Virginia,Essex,2015,64239.14
+Virginia,Essex,2016,65207.33
+Virginia,Essex,2017,66803.86
+Virginia,Essex,2018,66574.99
+Virginia,Essex,2019,67167.24
+Virginia,Essex,2020,68168.16
+Virginia,Essex,2021,69357.6
+Virginia,Essex,2022,70220.68
+Virginia,Essex,2023,70906.78
+Virginia,Essex,2024,71823.71
+Virginia,Fairfax,2005,48006.25
+Virginia,Fairfax,2006,49092.7
+Virginia,Fairfax,2007,49960.56
+Virginia,Fairfax,2008,50241.57
+Virginia,Fairfax,2009,51336.89
+Virginia,Fairfax,2010,52807.86
+Virginia,Fairfax,2011,54424.25
+Virginia,Fairfax,2012,54862.78
+Virginia,Fairfax,2013,55879.53
+Virginia,Fairfax,2014,57164.36
+Virginia,Fairfax,2015,57508.12
+Virginia,Fairfax,2016,58291.48
+Virginia,Fairfax,2017,59505.57
+Virginia,Fairfax,2018,60034.03
+Virginia,Fairfax,2019,61425.54
+Virginia,Fairfax,2020,62295.53
+Virginia,Fairfax,2021,63257.46
+Virginia,Fairfax,2022,64185.14
+Virginia,Fairfax,2023,65572.69
+Virginia,Fairfax,2024,66749.77
+Virginia,Fauquier,2005,49836.23
+Virginia,Fauquier,2006,51025.32
+Virginia,Fauquier,2007,51413.9
+Virginia,Fauquier,2008,51942.43
+Virginia,Fauquier,2009,53223.66
+Virginia,Fauquier,2010,53807.2
+Virginia,Fauquier,2011,55225.07
+Virginia,Fauquier,2012,55459.72
+Virginia,Fauquier,2013,56588.36
+Virginia,Fauquier,2014,56444.21
+Virginia,Fauquier,2015,57835.1
+Virginia,Fauquier,2016,59420.02
+Virginia,Fauquier,2017,60563.02
+Virginia,Fauquier,2018,60750.96
+Virginia,Fauquier,2019,61273.09
+Virginia,Fauquier,2020,62300.28
+Virginia,Fauquier,2021,63486.39
+Virginia,Fauquier,2022,65692.56
+Virginia,Fauquier,2023,65888.78
+Virginia,Fauquier,2024,66901.64
+Virginia,Floyd,2005,43627.95
+Virginia,Floyd,2006,44857.16
+Virginia,Floyd,2007,45831.67
+Virginia,Floyd,2008,46273.41
+Virginia,Floyd,2009,47402.33
+Virginia,Floyd,2010,48042.34
+Virginia,Floyd,2011,48446.98
+Virginia,Floyd,2012,50264.62
+Virginia,Floyd,2013,51418.83
+Virginia,Floyd,2014,51625.5
+Virginia,Floyd,2015,52501.38
+Virginia,Floyd,2016,53072.55
+Virginia,Floyd,2017,54892.51
+Virginia,Floyd,2018,55190.81
+Virginia,Floyd,2019,57096.78
+Virginia,Floyd,2020,58648.63
+Virginia,Floyd,2021,59098.89
+Virginia,Floyd,2022,60842.36
+Virginia,Floyd,2023,61686.68
+Virginia,Floyd,2024,62458.57
+Virginia,Fluvanna,2005,45676.03
+Virginia,Fluvanna,2006,46083.86
+Virginia,Fluvanna,2007,46602.64
+Virginia,Fluvanna,2008,47176.66
+Virginia,Fluvanna,2009,47594.85
+Virginia,Fluvanna,2010,48132.75
+Virginia,Fluvanna,2011,49437.59
+Virginia,Fluvanna,2012,50114.16
+Virginia,Fluvanna,2013,50982.4
+Virginia,Fluvanna,2014,52328.42
+Virginia,Fluvanna,2015,53882.7
+Virginia,Fluvanna,2016,55536.54
+Virginia,Fluvanna,2017,55663.35
+Virginia,Fluvanna,2018,56634.52
+Virginia,Fluvanna,2019,57580.52
+Virginia,Fluvanna,2020,57784.14
+Virginia,Fluvanna,2021,58656.52
+Virginia,Fluvanna,2022,59867.1
+Virginia,Fluvanna,2023,60636.87
+Virginia,Fluvanna,2024,61173.89
+Virginia,Franklin,2005,43484.95
+Virginia,Franklin,2006,44715.15
+Virginia,Franklin,2007,46944.26
+Virginia,Franklin,2008,47399.72
+Virginia,Franklin,2009,48764.07
+Virginia,Franklin,2010,49329.34
+Virginia,Franklin,2011,50384.71
+Virginia,Franklin,2012,51215.78
+Virginia,Franklin,2013,51352.49
+Virginia,Franklin,2014,52141.14
+Virginia,Franklin,2015,52596.16
+Virginia,Franklin,2016,53299.35
+Virginia,Franklin,2017,54183.71
+Virginia,Franklin,2018,55023.1
+Virginia,Franklin,2019,56455.54
+Virginia,Franklin,2020,57307.86
+Virginia,Franklin,2021,57871.19
+Virginia,Franklin,2022,58584.74
+Virginia,Franklin,2023,59338.77
+Virginia,Franklin,2024,59606.26
+Virginia,Frederick,2005,45167.16
+Virginia,Frederick,2006,46845.02
+Virginia,Frederick,2007,47837.2
+Virginia,Frederick,2008,48464.68
+Virginia,Frederick,2009,49197.66
+Virginia,Frederick,2010,50118.4
+Virginia,Frederick,2011,51780.27
+Virginia,Frederick,2012,52747.39
+Virginia,Frederick,2013,53891.04
+Virginia,Frederick,2014,55642.73
+Virginia,Frederick,2015,56782.4
+Virginia,Frederick,2016,57860.61
+Virginia,Frederick,2017,59188.01
+Virginia,Frederick,2018,60706.87
+Virginia,Frederick,2019,61797.97
+Virginia,Frederick,2020,62093.54
+Virginia,Frederick,2021,63204.14
+Virginia,Frederick,2022,63986.14
+Virginia,Frederick,2023,65639.28
+Virginia,Frederick,2024,66853.03
+Virginia,Giles,2005,50731.08
+Virginia,Giles,2006,51397.81
+Virginia,Giles,2007,51916.48
+Virginia,Giles,2008,51929.34
+Virginia,Giles,2009,52914.36
+Virginia,Giles,2010,54137.4
+Virginia,Giles,2011,55291.61
+Virginia,Giles,2012,56222.11
+Virginia,Giles,2013,57444.51
+Virginia,Giles,2014,58799.78
+Virginia,Giles,2015,59801.71
+Virginia,Giles,2016,60859.25
+Virginia,Giles,2017,61488.72
+Virginia,Giles,2018,62151.33
+Virginia,Giles,2019,63213.63
+Virginia,Giles,2020,63986.38
+Virginia,Giles,2021,65045.87
+Virginia,Giles,2022,66463.97
+Virginia,Giles,2023,67710.66
+Virginia,Giles,2024,68280.87
+Virginia,Gloucester,2005,58232.32
+Virginia,Gloucester,2006,59808.09
+Virginia,Gloucester,2007,61016.43
+Virginia,Gloucester,2008,62276.8
+Virginia,Gloucester,2009,62672.01
+Virginia,Gloucester,2010,63162.34
+Virginia,Gloucester,2011,64079.81
+Virginia,Gloucester,2012,65924.59
+Virginia,Gloucester,2013,66606.43
+Virginia,Gloucester,2014,67603.97
+Virginia,Gloucester,2015,68037.48
+Virginia,Gloucester,2016,69188.42
+Virginia,Gloucester,2017,70143.89
+Virginia,Gloucester,2018,71216.63
+Virginia,Gloucester,2019,71895.47
+Virginia,Gloucester,2020,72729.07
+Virginia,Gloucester,2021,74057.46
+Virginia,Gloucester,2022,75512.11
+Virginia,Gloucester,2023,76915.08
+Virginia,Gloucester,2024,78590.02
+Virginia,Goochland,2005,56188.49
+Virginia,Goochland,2006,57129.42
+Virginia,Goochland,2007,58185.18
+Virginia,Goochland,2008,59897.94
+Virginia,Goochland,2009,60711.81
+Virginia,Goochland,2010,61224.26
+Virginia,Goochland,2011,62707.78
+Virginia,Goochland,2012,64492.02
+Virginia,Goochland,2013,65663.82
+Virginia,Goochland,2014,67333.82
+Virginia,Goochland,2015,68899.57
+Virginia,Goochland,2016,69766.56
+Virginia,Goochland,2017,71007.08
+Virginia,Goochland,2018,71695.58
+Virginia,Goochland,2019,72604.01
+Virginia,Goochland,2020,73024.45
+Virginia,Goochland,2021,74225.76
+Virginia,Goochland,2022,75587.52
+Virginia,Goochland,2023,76920.77
+Virginia,Goochland,2024,78054.12
+Virginia,Grayson,2005,53158.12
+Virginia,Grayson,2006,54354.36
+Virginia,Grayson,2007,54350.3
+Virginia,Grayson,2008,55262.95
+Virginia,Grayson,2009,55982.76
+Virginia,Grayson,2010,56820.72
+Virginia,Grayson,2011,57869.66
+Virginia,Grayson,2012,59222.62
+Virginia,Grayson,2013,60160.94
+Virginia,Grayson,2014,61343.96
+Virginia,Grayson,2015,62228.06
+Virginia,Grayson,2016,63278.12
+Virginia,Grayson,2017,64449.26
+Virginia,Grayson,2018,66785.47
+Virginia,Grayson,2019,67998.73
+Virginia,Grayson,2020,68742.16
+Virginia,Grayson,2021,69799.24
+Virginia,Grayson,2022,70671.98
+Virginia,Grayson,2023,70724.2
+Virginia,Grayson,2024,71698.68
+Virginia,Greene,2005,49748.93
+Virginia,Greene,2006,50258.03
+Virginia,Greene,2007,51195.58
+Virginia,Greene,2008,51756.27
+Virginia,Greene,2009,53621.9
+Virginia,Greene,2010,53935.64
+Virginia,Greene,2011,55473.37
+Virginia,Greene,2012,56401.18
+Virginia,Greene,2013,58167.03
+Virginia,Greene,2014,58542.86
+Virginia,Greene,2015,59776.16
+Virginia,Greene,2016,61699.0
+Virginia,Greene,2017,62236.33
+Virginia,Greene,2018,63338.84
+Virginia,Greene,2019,64786.58
+Virginia,Greene,2020,65302.38
+Virginia,Greene,2021,65940.74
+Virginia,Greene,2022,66660.81
+Virginia,Greene,2023,68210.66
+Virginia,Greene,2024,68479.73
+Virginia,Greensville,2005,48080.67
+Virginia,Greensville,2006,48694.63
+Virginia,Greensville,2007,49850.7
+Virginia,Greensville,2008,51324.76
+Virginia,Greensville,2009,52028.08
+Virginia,Greensville,2010,54184.53
+Virginia,Greensville,2011,55463.76
+Virginia,Greensville,2012,56040.08
+Virginia,Greensville,2013,57372.45
+Virginia,Greensville,2014,58656.29
+Virginia,Greensville,2015,59735.95
+Virginia,Greensville,2016,60333.95
+Virginia,Greensville,2017,60142.67
+Virginia,Greensville,2018,60547.21
+Virginia,Greensville,2019,61681.41
+Virginia,Greensville,2020,62248.05
+Virginia,Greensville,2021,63497.22
+Virginia,Greensville,2022,64258.11
+Virginia,Greensville,2023,65269.76
+Virginia,Greensville,2024,67017.18
+Virginia,Halifax,2005,53801.66
+Virginia,Halifax,2006,54968.04
+Virginia,Halifax,2007,55525.35
+Virginia,Halifax,2008,56384.84
+Virginia,Halifax,2009,57214.33
+Virginia,Halifax,2010,57723.18
+Virginia,Halifax,2011,58415.74
+Virginia,Halifax,2012,59160.17
+Virginia,Halifax,2013,59254.6
+Virginia,Halifax,2014,60169.4
+Virginia,Halifax,2015,61399.21
+Virginia,Halifax,2016,62642.76
+Virginia,Halifax,2017,63382.7
+Virginia,Halifax,2018,63880.88
+Virginia,Halifax,2019,64293.97
+Virginia,Halifax,2020,64909.33
+Virginia,Halifax,2021,65992.97
+Virginia,Halifax,2022,67650.23
+Virginia,Halifax,2023,69010.07
+Virginia,Halifax,2024,70419.3
+Virginia,Hanover,2005,49476.67
+Virginia,Hanover,2006,50773.96
+Virginia,Hanover,2007,52192.33
+Virginia,Hanover,2008,53433.85
+Virginia,Hanover,2009,55172.48
+Virginia,Hanover,2010,56034.29
+Virginia,Hanover,2011,56612.35
+Virginia,Hanover,2012,58298.85
+Virginia,Hanover,2013,58417.23
+Virginia,Hanover,2014,58927.49
+Virginia,Hanover,2015,59963.06
+Virginia,Hanover,2016,61858.49
+Virginia,Hanover,2017,63042.75
+Virginia,Hanover,2018,63770.5
+Virginia,Hanover,2019,64953.47
+Virginia,Hanover,2020,65481.66
+Virginia,Hanover,2021,65801.29
+Virginia,Hanover,2022,66919.33
+Virginia,Hanover,2023,67889.92
+Virginia,Hanover,2024,68656.29
+Virginia,Henrico,2005,43501.06
+Virginia,Henrico,2006,45301.54
+Virginia,Henrico,2007,46711.92
+Virginia,Henrico,2008,48079.31
+Virginia,Henrico,2009,48575.96
+Virginia,Henrico,2010,50045.05
+Virginia,Henrico,2011,51498.81
+Virginia,Henrico,2012,52377.27
+Virginia,Henrico,2013,52788.98
+Virginia,Henrico,2014,53312.88
+Virginia,Henrico,2015,54234.78
+Virginia,Henrico,2016,54697.0
+Virginia,Henrico,2017,56533.28
+Virginia,Henrico,2018,57571.27
+Virginia,Henrico,2019,58469.93
+Virginia,Henrico,2020,59145.65
+Virginia,Henrico,2021,60303.73
+Virginia,Henrico,2022,61299.12
+Virginia,Henrico,2023,61352.27
+Virginia,Henrico,2024,63494.35
+Virginia,Henry,2005,46796.95
+Virginia,Henry,2006,48093.44
+Virginia,Henry,2007,49302.27
+Virginia,Henry,2008,49807.78
+Virginia,Henry,2009,51245.64
+Virginia,Henry,2010,51564.94
+Virginia,Henry,2011,52235.11
+Virginia,Henry,2012,52694.56
+Virginia,Henry,2013,53686.45
+Virginia,Henry,2014,55386.06
+Virginia,Henry,2015,56248.75
+Virginia,Henry,2016,57216.71
+Virginia,Henry,2017,58505.94
+Virginia,Henry,2018,58970.32
+Virginia,Henry,2019,60794.36
+Virginia,Henry,2020,62077.27
+Virginia,Henry,2021,62936.76
+Virginia,Henry,2022,63944.81
+Virginia,Henry,2023,65242.65
+Virginia,Henry,2024,66476.97
+Virginia,Highland,2005,55958.42
+Virginia,Highland,2006,57398.74
+Virginia,Highland,2007,57680.72
+Virginia,Highland,2008,58179.0
+Virginia,Highland,2009,59674.97
+Virginia,Highland,2010,60767.48
+Virginia,Highland,2011,61735.39
+Virginia,Highland,2012,63569.69
+Virginia,Highland,2013,64886.88
+Virginia,Highland,2014,66446.31
+Virginia,Highland,2015,67667.65
+Virginia,Highland,2016,67706.21
+Virginia,Highland,2017,68937.56
+Virginia,Highland,2018,69926.71
+Virginia,Highland,2019,70064.07
+Virginia,Highland,2020,71544.54
+Virginia,Highland,2021,71755.69
+Virginia,Highland,2022,72171.29
+Virginia,Highland,2023,72731.8
+Virginia,Highland,2024,73640.46
+Virginia,Isle of Wight,2005,45972.3
+Virginia,Isle of Wight,2006,46462.78
+Virginia,Isle of Wight,2007,47242.73
+Virginia,Isle of Wight,2008,47730.45
+Virginia,Isle of Wight,2009,48602.15
+Virginia,Isle of Wight,2010,49622.74
+Virginia,Isle of Wight,2011,49742.89
+Virginia,Isle of Wight,2012,50658.53
+Virginia,Isle of Wight,2013,52084.97
+Virginia,Isle of Wight,2014,52300.4
+Virginia,Isle of Wight,2015,53691.56
+Virginia,Isle of Wight,2016,55722.99
+Virginia,Isle of Wight,2017,56100.22
+Virginia,Isle of Wight,2018,56425.99
+Virginia,Isle of Wight,2019,58661.27
+Virginia,Isle of Wight,2020,59697.15
+Virginia,Isle of Wight,2021,59942.33
+Virginia,Isle of Wight,2022,60903.58
+Virginia,Isle of Wight,2023,61660.0
+Virginia,Isle of Wight,2024,62035.58
+Virginia,James City,2005,45238.92
+Virginia,James City,2006,46584.48
+Virginia,James City,2007,46731.97
+Virginia,James City,2008,47327.75
+Virginia,James City,2009,48534.95
+Virginia,James City,2010,49528.92
+Virginia,James City,2011,49699.86
+Virginia,James City,2012,50911.71
+Virginia,James City,2013,51544.54
+Virginia,James City,2014,51745.73
+Virginia,James City,2015,53261.78
+Virginia,James City,2016,54923.35
+Virginia,James City,2017,56322.48
+Virginia,James City,2018,57099.87
+Virginia,James City,2019,58671.01
+Virginia,James City,2020,59807.59
+Virginia,James City,2021,60949.52
+Virginia,James City,2022,61248.92
+Virginia,James City,2023,63254.57
+Virginia,James City,2024,64061.37
+Virginia,King and Queen,2005,52223.39
+Virginia,King and Queen,2006,54032.96
+Virginia,King and Queen,2007,55346.03
+Virginia,King and Queen,2008,56448.77
+Virginia,King and Queen,2009,56840.09
+Virginia,King and Queen,2010,57401.84
+Virginia,King and Queen,2011,58515.44
+Virginia,King and Queen,2012,59898.65
+Virginia,King and Queen,2013,60643.5
+Virginia,King and Queen,2014,61486.02
+Virginia,King and Queen,2015,62121.91
+Virginia,King and Queen,2016,63139.7
+Virginia,King and Queen,2017,63477.9
+Virginia,King and Queen,2018,64096.58
+Virginia,King and Queen,2019,65346.23
+Virginia,King and Queen,2020,66502.48
+Virginia,King and Queen,2021,67171.45
+Virginia,King and Queen,2022,68602.05
+Virginia,King and Queen,2023,68662.6
+Virginia,King and Queen,2024,69275.93
+Virginia,King George,2005,51686.76
+Virginia,King George,2006,52240.22
+Virginia,King George,2007,53192.63
+Virginia,King George,2008,53949.44
+Virginia,King George,2009,54995.81
+Virginia,King George,2010,56078.12
+Virginia,King George,2011,56999.48
+Virginia,King George,2012,58211.75
+Virginia,King George,2013,59435.1
+Virginia,King George,2014,60123.65
+Virginia,King George,2015,60598.45
+Virginia,King George,2016,61882.45
+Virginia,King George,2017,62740.19
+Virginia,King George,2018,63386.57
+Virginia,King George,2019,64549.93
+Virginia,King George,2020,65438.38
+Virginia,King George,2021,66793.39
+Virginia,King George,2022,68126.52
+Virginia,King George,2023,69351.39
+Virginia,King George,2024,70217.04
+Virginia,King William,2005,56003.71
+Virginia,King William,2006,57050.96
+Virginia,King William,2007,57933.26
+Virginia,King William,2008,58374.05
+Virginia,King William,2009,59585.02
+Virginia,King William,2010,60226.37
+Virginia,King William,2011,60995.68
+Virginia,King William,2012,61998.93
+Virginia,King William,2013,62040.25
+Virginia,King William,2014,64001.07
+Virginia,King William,2015,65605.4
+Virginia,King William,2016,66143.89
+Virginia,King William,2017,66913.98
+Virginia,King William,2018,68064.2
+Virginia,King William,2019,69490.23
+Virginia,King William,2020,70453.63
+Virginia,King William,2021,71726.74
+Virginia,King William,2022,72429.26
+Virginia,King William,2023,73567.53
+Virginia,King William,2024,74562.24
+Virginia,Lancaster,2005,41749.5
+Virginia,Lancaster,2006,42672.22
+Virginia,Lancaster,2007,42302.54
+Virginia,Lancaster,2008,42288.31
+Virginia,Lancaster,2009,42983.64
+Virginia,Lancaster,2010,44017.81
+Virginia,Lancaster,2011,44866.23
+Virginia,Lancaster,2012,45989.53
+Virginia,Lancaster,2013,46472.08
+Virginia,Lancaster,2014,47582.36
+Virginia,Lancaster,2015,48154.87
+Virginia,Lancaster,2016,49116.96
+Virginia,Lancaster,2017,50374.99
+Virginia,Lancaster,2018,51991.91
+Virginia,Lancaster,2019,52658.02
+Virginia,Lancaster,2020,53877.19
+Virginia,Lancaster,2021,55078.64
+Virginia,Lancaster,2022,57589.08
+Virginia,Lancaster,2023,58598.66
+Virginia,Lancaster,2024,59708.84
+Virginia,Lee,2005,58119.25
+Virginia,Lee,2006,59990.95
+Virginia,Lee,2007,60245.18
+Virginia,Lee,2008,62279.47
+Virginia,Lee,2009,63699.98
+Virginia,Lee,2010,64551.58
+Virginia,Lee,2011,66038.13
+Virginia,Lee,2012,65945.39
+Virginia,Lee,2013,66511.06
+Virginia,Lee,2014,67239.46
+Virginia,Lee,2015,68250.2
+Virginia,Lee,2016,69715.85
+Virginia,Lee,2017,71457.62
+Virginia,Lee,2018,71845.51
+Virginia,Lee,2019,73249.2
+Virginia,Lee,2020,74303.82
+Virginia,Lee,2021,74875.4
+Virginia,Lee,2022,76092.17
+Virginia,Lee,2023,76671.76
+Virginia,Lee,2024,77509.69
+Virginia,Loudoun,2005,46092.06
+Virginia,Loudoun,2006,46233.58
+Virginia,Loudoun,2007,48126.6
+Virginia,Loudoun,2008,49053.65
+Virginia,Loudoun,2009,50004.1
+Virginia,Loudoun,2010,51640.82
+Virginia,Loudoun,2011,52792.53
+Virginia,Loudoun,2012,53203.37
+Virginia,Loudoun,2013,54184.55
+Virginia,Loudoun,2014,54904.85
+Virginia,Loudoun,2015,56069.7
+Virginia,Loudoun,2016,56943.99
+Virginia,Loudoun,2017,57731.6
+Virginia,Loudoun,2018,58797.01
+Virginia,Loudoun,2019,60034.76
+Virginia,Loudoun,2020,61193.71
+Virginia,Loudoun,2021,62370.17
+Virginia,Loudoun,2022,62940.71
+Virginia,Loudoun,2023,63721.19
+Virginia,Loudoun,2024,65410.34
+Virginia,Louisa,2005,56999.74
+Virginia,Louisa,2006,58430.26
+Virginia,Louisa,2007,59760.58
+Virginia,Louisa,2008,60474.35
+Virginia,Louisa,2009,61633.65
+Virginia,Louisa,2010,62379.35
+Virginia,Louisa,2011,62360.02
+Virginia,Louisa,2012,63719.23
+Virginia,Louisa,2013,64712.69
+Virginia,Louisa,2014,66357.23
+Virginia,Louisa,2015,68035.74
+Virginia,Louisa,2016,69113.13
+Virginia,Louisa,2017,70583.15
+Virginia,Louisa,2018,71250.63
+Virginia,Louisa,2019,72127.77
+Virginia,Louisa,2020,73957.33
+Virginia,Louisa,2021,74950.87
+Virginia,Louisa,2022,76945.37
+Virginia,Louisa,2023,77858.09
+Virginia,Louisa,2024,79074.88
+Virginia,Lunenburg,2005,48705.45
+Virginia,Lunenburg,2006,49711.42
+Virginia,Lunenburg,2007,51071.01
+Virginia,Lunenburg,2008,52076.66
+Virginia,Lunenburg,2009,53476.27
+Virginia,Lunenburg,2010,54179.62
+Virginia,Lunenburg,2011,55022.56
+Virginia,Lunenburg,2012,55965.0
+Virginia,Lunenburg,2013,57166.72
+Virginia,Lunenburg,2014,57248.88
+Virginia,Lunenburg,2015,57669.04
+Virginia,Lunenburg,2016,58841.42
+Virginia,Lunenburg,2017,59843.66
+Virginia,Lunenburg,2018,59782.27
+Virginia,Lunenburg,2019,59928.91
+Virginia,Lunenburg,2020,61330.38
+Virginia,Lunenburg,2021,62336.15
+Virginia,Lunenburg,2022,64018.33
+Virginia,Lunenburg,2023,65373.06
+Virginia,Lunenburg,2024,66717.05
+Virginia,Madison,2005,49703.72
+Virginia,Madison,2006,50410.61
+Virginia,Madison,2007,51283.03
+Virginia,Madison,2008,52841.81
+Virginia,Madison,2009,54624.09
+Virginia,Madison,2010,54794.52
+Virginia,Madison,2011,56582.18
+Virginia,Madison,2012,56848.81
+Virginia,Madison,2013,57377.97
+Virginia,Madison,2014,58564.53
+Virginia,Madison,2015,60068.54
+Virginia,Madison,2016,60833.28
+Virginia,Madison,2017,61217.78
+Virginia,Madison,2018,62403.81
+Virginia,Madison,2019,64801.77
+Virginia,Madison,2020,64839.58
+Virginia,Madison,2021,65125.78
+Virginia,Madison,2022,67312.92
+Virginia,Madison,2023,68326.96
+Virginia,Madison,2024,69266.22
+Virginia,Mathews,2005,56311.45
+Virginia,Mathews,2006,57532.11
+Virginia,Mathews,2007,58151.42
+Virginia,Mathews,2008,58842.13
+Virginia,Mathews,2009,59722.09
+Virginia,Mathews,2010,60015.71
+Virginia,Mathews,2011,61122.72
+Virginia,Mathews,2012,61762.18
+Virginia,Mathews,2013,62031.24
+Virginia,Mathews,2014,62765.84
+Virginia,Mathews,2015,63333.97
+Virginia,Mathews,2016,64560.32
+Virginia,Mathews,2017,65058.08
+Virginia,Mathews,2018,66518.2
+Virginia,Mathews,2019,67793.81
+Virginia,Mathews,2020,68984.16
+Virginia,Mathews,2021,70876.99
+Virginia,Mathews,2022,71273.19
+Virginia,Mathews,2023,72189.52
+Virginia,Mathews,2024,72804.03
+Virginia,Mecklenburg,2005,55599.08
+Virginia,Mecklenburg,2006,57143.93
+Virginia,Mecklenburg,2007,57446.18
+Virginia,Mecklenburg,2008,58268.68
+Virginia,Mecklenburg,2009,59763.08
+Virginia,Mecklenburg,2010,60182.77
+Virginia,Mecklenburg,2011,60689.81
+Virginia,Mecklenburg,2012,62095.13
+Virginia,Mecklenburg,2013,62982.98
+Virginia,Mecklenburg,2014,64141.58
+Virginia,Mecklenburg,2015,65827.86
+Virginia,Mecklenburg,2016,66330.03
+Virginia,Mecklenburg,2017,68221.97
+Virginia,Mecklenburg,2018,69884.98
+Virginia,Mecklenburg,2019,71568.34
+Virginia,Mecklenburg,2020,72968.96
+Virginia,Mecklenburg,2021,74050.26
+Virginia,Mecklenburg,2022,75520.7
+Virginia,Mecklenburg,2023,76968.14
+Virginia,Mecklenburg,2024,77800.82
+Virginia,Middlesex,2005,53602.12
+Virginia,Middlesex,2006,54114.99
+Virginia,Middlesex,2007,55773.31
+Virginia,Middlesex,2008,56145.1
+Virginia,Middlesex,2009,56558.39
+Virginia,Middlesex,2010,58762.39
+Virginia,Middlesex,2011,58792.74
+Virginia,Middlesex,2012,60711.83
+Virginia,Middlesex,2013,61111.9
+Virginia,Middlesex,2014,61885.53
+Virginia,Middlesex,2015,63157.08
+Virginia,Middlesex,2016,64600.68
+Virginia,Middlesex,2017,65636.29
+Virginia,Middlesex,2018,66709.48
+Virginia,Middlesex,2019,67702.56
+Virginia,Middlesex,2020,68791.91
+Virginia,Middlesex,2021,69693.72
+Virginia,Middlesex,2022,71193.19
+Virginia,Middlesex,2023,71512.62
+Virginia,Middlesex,2024,73366.78
+Virginia,Montgomery,2005,57565.64
+Virginia,Montgomery,2006,58359.39
+Virginia,Montgomery,2007,59305.51
+Virginia,Montgomery,2008,60473.7
+Virginia,Montgomery,2009,62339.71
+Virginia,Montgomery,2010,64181.86
+Virginia,Montgomery,2011,64622.36
+Virginia,Montgomery,2012,65770.12
+Virginia,Montgomery,2013,65890.48
+Virginia,Montgomery,2014,67323.48
+Virginia,Montgomery,2015,68160.72
+Virginia,Montgomery,2016,69597.7
+Virginia,Montgomery,2017,70974.65
+Virginia,Montgomery,2018,71812.08
+Virginia,Montgomery,2019,72211.88
+Virginia,Montgomery,2020,72287.45
+Virginia,Montgomery,2021,73370.27
+Virginia,Montgomery,2022,74876.35
+Virginia,Montgomery,2023,76367.06
+Virginia,Montgomery,2024,78136.52
+Virginia,Nelson,2005,47765.11
+Virginia,Nelson,2006,48536.16
+Virginia,Nelson,2007,49799.56
+Virginia,Nelson,2008,50735.89
+Virginia,Nelson,2009,52049.29
+Virginia,Nelson,2010,52751.44
+Virginia,Nelson,2011,53649.52
+Virginia,Nelson,2012,53934.32
+Virginia,Nelson,2013,54782.72
+Virginia,Nelson,2014,56581.27
+Virginia,Nelson,2015,57552.5
+Virginia,Nelson,2016,58397.1
+Virginia,Nelson,2017,59356.44
+Virginia,Nelson,2018,60852.08
+Virginia,Nelson,2019,62615.56
+Virginia,Nelson,2020,64000.65
+Virginia,Nelson,2021,64859.28
+Virginia,Nelson,2022,65518.61
+Virginia,Nelson,2023,66798.02
+Virginia,Nelson,2024,67939.02
+Virginia,New Kent,2005,46476.32
+Virginia,New Kent,2006,47273.52
+Virginia,New Kent,2007,48570.02
+Virginia,New Kent,2008,49719.0
+Virginia,New Kent,2009,50934.11
+Virginia,New Kent,2010,52295.86
+Virginia,New Kent,2011,53082.15
+Virginia,New Kent,2012,54262.26
+Virginia,New Kent,2013,55390.78
+Virginia,New Kent,2014,56621.75
+Virginia,New Kent,2015,57207.85
+Virginia,New Kent,2016,58178.24
+Virginia,New Kent,2017,59718.72
+Virginia,New Kent,2018,60588.97
+Virginia,New Kent,2019,62027.07
+Virginia,New Kent,2020,63420.53
+Virginia,New Kent,2021,63829.74
+Virginia,New Kent,2022,64297.4
+Virginia,New Kent,2023,65880.41
+Virginia,New Kent,2024,66756.36
+Virginia,Northampton,2005,47173.78
+Virginia,Northampton,2006,48808.09
+Virginia,Northampton,2007,49744.49
+Virginia,Northampton,2008,50988.22
+Virginia,Northampton,2009,51444.21
+Virginia,Northampton,2010,53161.69
+Virginia,Northampton,2011,54989.67
+Virginia,Northampton,2012,55802.14
+Virginia,Northampton,2013,57118.71
+Virginia,Northampton,2014,57756.57
+Virginia,Northampton,2015,58840.67
+Virginia,Northampton,2016,60539.4
+Virginia,Northampton,2017,61583.34
+Virginia,Northampton,2018,62326.82
+Virginia,Northampton,2019,63829.23
+Virginia,Northampton,2020,64494.15
+Virginia,Northampton,2021,64774.26
+Virginia,Northampton,2022,65875.21
+Virginia,Northampton,2023,67026.47
+Virginia,Northampton,2024,68059.67
+Virginia,Northumberland,2005,58757.49
+Virginia,Northumberland,2006,60480.2
+Virginia,Northumberland,2007,61098.51
+Virginia,Northumberland,2008,61450.02
+Virginia,Northumberland,2009,62657.07
+Virginia,Northumberland,2010,63445.84
+Virginia,Northumberland,2011,65263.38
+Virginia,Northumberland,2012,66663.49
+Virginia,Northumberland,2013,66820.77
+Virginia,Northumberland,2014,67680.88
+Virginia,Northumberland,2015,68224.48
+Virginia,Northumberland,2016,69460.35
+Virginia,Northumberland,2017,70236.5
+Virginia,Northumberland,2018,72070.87
+Virginia,Northumberland,2019,72865.84
+Virginia,Northumberland,2020,74221.39
+Virginia,Northumberland,2021,75599.14
+Virginia,Northumberland,2022,76680.47
+Virginia,Northumberland,2023,78004.53
+Virginia,Northumberland,2024,79108.35
+Virginia,Nottoway,2005,55054.15
+Virginia,Nottoway,2006,56603.89
+Virginia,Nottoway,2007,57058.54
+Virginia,Nottoway,2008,57158.17
+Virginia,Nottoway,2009,57734.46
+Virginia,Nottoway,2010,58595.71
+Virginia,Nottoway,2011,59780.27
+Virginia,Nottoway,2012,61154.07
+Virginia,Nottoway,2013,61555.1
+Virginia,Nottoway,2014,62129.78
+Virginia,Nottoway,2015,63420.78
+Virginia,Nottoway,2016,62905.27
+Virginia,Nottoway,2017,63388.38
+Virginia,Nottoway,2018,65283.6
+Virginia,Nottoway,2019,65657.68
+Virginia,Nottoway,2020,65742.41
+Virginia,Nottoway,2021,66691.89
+Virginia,Nottoway,2022,68157.5
+Virginia,Nottoway,2023,69131.85
+Virginia,Nottoway,2024,69831.39
+Virginia,Orange,2005,43250.33
+Virginia,Orange,2006,43484.04
+Virginia,Orange,2007,44800.53
+Virginia,Orange,2008,45297.31
+Virginia,Orange,2009,45934.42
+Virginia,Orange,2010,46561.92
+Virginia,Orange,2011,47053.85
+Virginia,Orange,2012,48581.05
+Virginia,Orange,2013,50133.63
+Virginia,Orange,2014,51269.33
+Virginia,Orange,2015,52368.83
+Virginia,Orange,2016,53681.46
+Virginia,Orange,2017,55109.86
+Virginia,Orange,2018,56172.47
+Virginia,Orange,2019,57634.95
+Virginia,Orange,2020,58771.41
+Virginia,Orange,2021,59722.37
+Virginia,Orange,2022,60119.85
+Virginia,Orange,2023,60489.3
+Virginia,Orange,2024,61096.55
+Virginia,Page,2005,43990.64
+Virginia,Page,2006,45304.22
+Virginia,Page,2007,46467.92
+Virginia,Page,2008,48140.03
+Virginia,Page,2009,49222.65
+Virginia,Page,2010,51612.98
+Virginia,Page,2011,51800.41
+Virginia,Page,2012,53062.7
+Virginia,Page,2013,53515.25
+Virginia,Page,2014,54363.94
+Virginia,Page,2015,55665.1
+Virginia,Page,2016,57379.8
+Virginia,Page,2017,57696.56
+Virginia,Page,2018,58350.92
+Virginia,Page,2019,60015.81
+Virginia,Page,2020,61186.88
+Virginia,Page,2021,61528.72
+Virginia,Page,2022,62836.82
+Virginia,Page,2023,63791.36
+Virginia,Page,2024,65408.61
+Virginia,Patrick,2005,54187.07
+Virginia,Patrick,2006,54987.69
+Virginia,Patrick,2007,56465.16
+Virginia,Patrick,2008,57479.67
+Virginia,Patrick,2009,58890.62
+Virginia,Patrick,2010,59583.46
+Virginia,Patrick,2011,59768.77
+Virginia,Patrick,2012,61259.38
+Virginia,Patrick,2013,63174.42
+Virginia,Patrick,2014,64173.04
+Virginia,Patrick,2015,64456.33
+Virginia,Patrick,2016,65072.54
+Virginia,Patrick,2017,66111.66
+Virginia,Patrick,2018,67548.36
+Virginia,Patrick,2019,68046.0
+Virginia,Patrick,2020,68478.26
+Virginia,Patrick,2021,68971.25
+Virginia,Patrick,2022,69387.02
+Virginia,Patrick,2023,70351.13
+Virginia,Patrick,2024,71257.28
+Virginia,Pittsylvania,2005,56296.85
+Virginia,Pittsylvania,2006,57716.59
+Virginia,Pittsylvania,2007,58866.08
+Virginia,Pittsylvania,2008,59158.98
+Virginia,Pittsylvania,2009,59848.06
+Virginia,Pittsylvania,2010,60820.56
+Virginia,Pittsylvania,2011,61092.99
+Virginia,Pittsylvania,2012,62464.18
+Virginia,Pittsylvania,2013,62483.01
+Virginia,Pittsylvania,2014,63526.65
+Virginia,Pittsylvania,2015,64682.84
+Virginia,Pittsylvania,2016,66242.21
+Virginia,Pittsylvania,2017,67390.88
+Virginia,Pittsylvania,2018,68501.13
+Virginia,Pittsylvania,2019,69295.68
+Virginia,Pittsylvania,2020,69836.49
+Virginia,Pittsylvania,2021,70658.84
+Virginia,Pittsylvania,2022,71274.51
+Virginia,Pittsylvania,2023,72751.22
+Virginia,Pittsylvania,2024,73939.77
+Virginia,Powhatan,2005,51954.91
+Virginia,Powhatan,2006,52109.45
+Virginia,Powhatan,2007,53511.68
+Virginia,Powhatan,2008,54602.76
+Virginia,Powhatan,2009,54385.29
+Virginia,Powhatan,2010,55309.45
+Virginia,Powhatan,2011,56460.37
+Virginia,Powhatan,2012,58402.16
+Virginia,Powhatan,2013,59743.01
+Virginia,Powhatan,2014,61037.47
+Virginia,Powhatan,2015,62207.75
+Virginia,Powhatan,2016,62512.83
+Virginia,Powhatan,2017,63423.64
+Virginia,Powhatan,2018,63479.94
+Virginia,Powhatan,2019,64133.83
+Virginia,Powhatan,2020,65257.22
+Virginia,Powhatan,2021,66268.49
+Virginia,Powhatan,2022,68085.78
+Virginia,Powhatan,2023,68395.27
+Virginia,Powhatan,2024,69145.75
+Virginia,Prince Edward,2005,59116.3
+Virginia,Prince Edward,2006,60861.18
+Virginia,Prince Edward,2007,62416.2
+Virginia,Prince Edward,2008,63402.35
+Virginia,Prince Edward,2009,64231.68
+Virginia,Prince Edward,2010,65048.26
+Virginia,Prince Edward,2011,66387.42
+Virginia,Prince Edward,2012,66870.33
+Virginia,Prince Edward,2013,68006.68
+Virginia,Prince Edward,2014,69200.49
+Virginia,Prince Edward,2015,70012.19
+Virginia,Prince Edward,2016,70561.47
+Virginia,Prince Edward,2017,71627.38
+Virginia,Prince Edward,2018,73482.94
+Virginia,Prince Edward,2019,74891.49
+Virginia,Prince Edward,2020,75443.76
+Virginia,Prince Edward,2021,76497.07
+Virginia,Prince Edward,2022,77284.4
+Virginia,Prince Edward,2023,78741.81
+Virginia,Prince Edward,2024,79646.72
+Virginia,Prince George,2005,57629.66
+Virginia,Prince George,2006,59505.18
+Virginia,Prince George,2007,60654.72
+Virginia,Prince George,2008,63348.21
+Virginia,Prince George,2009,65136.06
+Virginia,Prince George,2010,66321.98
+Virginia,Prince George,2011,67551.49
+Virginia,Prince George,2012,68061.65
+Virginia,Prince George,2013,68660.55
+Virginia,Prince George,2014,70002.92
+Virginia,Prince George,2015,71339.85
+Virginia,Prince George,2016,72200.73
+Virginia,Prince George,2017,73467.67
+Virginia,Prince George,2018,73822.27
+Virginia,Prince George,2019,75599.59
+Virginia,Prince George,2020,76008.6
+Virginia,Prince George,2021,77494.66
+Virginia,Prince George,2022,79657.57
+Virginia,Prince George,2023,80949.57
+Virginia,Prince George,2024,82766.23
+Virginia,Prince William,2005,55414.08
+Virginia,Prince William,2006,56308.37
+Virginia,Prince William,2007,57343.93
+Virginia,Prince William,2008,57643.55
+Virginia,Prince William,2009,58391.58
+Virginia,Prince William,2010,59292.87
+Virginia,Prince William,2011,61052.06
+Virginia,Prince William,2012,61869.4
+Virginia,Prince William,2013,61457.1
+Virginia,Prince William,2014,62180.13
+Virginia,Prince William,2015,62776.33
+Virginia,Prince William,2016,64063.22
+Virginia,Prince William,2017,64929.06
+Virginia,Prince William,2018,65611.9
+Virginia,Prince William,2019,67330.66
+Virginia,Prince William,2020,68676.41
+Virginia,Prince William,2021,69218.22
+Virginia,Prince William,2022,70739.12
+Virginia,Prince William,2023,71766.92
+Virginia,Prince William,2024,72766.39
+Virginia,Pulaski,2005,57456.8
+Virginia,Pulaski,2006,59008.15
+Virginia,Pulaski,2007,60971.88
+Virginia,Pulaski,2008,62111.48
+Virginia,Pulaski,2009,62669.59
+Virginia,Pulaski,2010,64304.84
+Virginia,Pulaski,2011,65034.48
+Virginia,Pulaski,2012,66106.52
+Virginia,Pulaski,2013,66523.17
+Virginia,Pulaski,2014,67054.96
+Virginia,Pulaski,2015,67862.48
+Virginia,Pulaski,2016,69100.06
+Virginia,Pulaski,2017,69500.44
+Virginia,Pulaski,2018,70168.83
+Virginia,Pulaski,2019,70960.2
+Virginia,Pulaski,2020,72139.78
+Virginia,Pulaski,2021,72939.33
+Virginia,Pulaski,2022,73516.85
+Virginia,Pulaski,2023,75226.56
+Virginia,Pulaski,2024,76302.03
+Virginia,Rappahannock,2005,48856.75
+Virginia,Rappahannock,2006,50169.4
+Virginia,Rappahannock,2007,51594.85
+Virginia,Rappahannock,2008,52742.24
+Virginia,Rappahannock,2009,53647.25
+Virginia,Rappahannock,2010,55667.17
+Virginia,Rappahannock,2011,57361.02
+Virginia,Rappahannock,2012,59720.47
+Virginia,Rappahannock,2013,61232.47
+Virginia,Rappahannock,2014,61722.99
+Virginia,Rappahannock,2015,62193.6
+Virginia,Rappahannock,2016,63772.76
+Virginia,Rappahannock,2017,64134.75
+Virginia,Rappahannock,2018,65404.55
+Virginia,Rappahannock,2019,66949.32
+Virginia,Rappahannock,2020,67818.25
+Virginia,Rappahannock,2021,68839.49
+Virginia,Rappahannock,2022,70830.66
+Virginia,Rappahannock,2023,72274.3
+Virginia,Rappahannock,2024,73762.85
+Virginia,Richmond,2005,59618.28
+Virginia,Richmond,2006,60655.51
+Virginia,Richmond,2007,61271.81
+Virginia,Richmond,2008,62275.52
+Virginia,Richmond,2009,63487.59
+Virginia,Richmond,2010,64668.17
+Virginia,Richmond,2011,65601.16
+Virginia,Richmond,2012,66736.12
+Virginia,Richmond,2013,67282.93
+Virginia,Richmond,2014,68336.96
+Virginia,Richmond,2015,70098.47
+Virginia,Richmond,2016,71234.91
+Virginia,Richmond,2017,72308.11
+Virginia,Richmond,2018,73221.83
+Virginia,Richmond,2019,74105.12
+Virginia,Richmond,2020,74710.31
+Virginia,Richmond,2021,75658.73
+Virginia,Richmond,2022,76611.83
+Virginia,Richmond,2023,77498.89
+Virginia,Richmond,2024,79286.65
+Virginia,Roanoke,2005,46375.55
+Virginia,Roanoke,2006,47626.65
+Virginia,Roanoke,2007,49554.27
+Virginia,Roanoke,2008,50681.67
+Virginia,Roanoke,2009,51474.34
+Virginia,Roanoke,2010,52939.53
+Virginia,Roanoke,2011,54084.46
+Virginia,Roanoke,2012,54815.7
+Virginia,Roanoke,2013,55813.89
+Virginia,Roanoke,2014,56766.68
+Virginia,Roanoke,2015,57872.55
+Virginia,Roanoke,2016,59909.16
+Virginia,Roanoke,2017,60456.78
+Virginia,Roanoke,2018,62168.37
+Virginia,Roanoke,2019,63113.18
+Virginia,Roanoke,2020,64407.69
+Virginia,Roanoke,2021,65154.17
+Virginia,Roanoke,2022,65471.27
+Virginia,Roanoke,2023,65700.56
+Virginia,Roanoke,2024,66905.22
+Virginia,Rockbridge,2005,56257.52
+Virginia,Rockbridge,2006,57096.81
+Virginia,Rockbridge,2007,58322.53
+Virginia,Rockbridge,2008,58224.18
+Virginia,Rockbridge,2009,58568.85
+Virginia,Rockbridge,2010,59383.79
+Virginia,Rockbridge,2011,60707.29
+Virginia,Rockbridge,2012,61967.61
+Virginia,Rockbridge,2013,62714.41
+Virginia,Rockbridge,2014,64086.32
+Virginia,Rockbridge,2015,64637.63
+Virginia,Rockbridge,2016,65126.4
+Virginia,Rockbridge,2017,65918.13
+Virginia,Rockbridge,2018,66653.36
+Virginia,Rockbridge,2019,68260.06
+Virginia,Rockbridge,2020,69052.66
+Virginia,Rockbridge,2021,69775.98
+Virginia,Rockbridge,2022,70397.31
+Virginia,Rockbridge,2023,71307.1
+Virginia,Rockbridge,2024,72932.17
+Virginia,Rockingham,2005,58586.89
+Virginia,Rockingham,2006,59282.04
+Virginia,Rockingham,2007,59332.81
+Virginia,Rockingham,2008,60326.92
+Virginia,Rockingham,2009,61525.44
+Virginia,Rockingham,2010,63373.48
+Virginia,Rockingham,2011,63239.08
+Virginia,Rockingham,2012,63893.58
+Virginia,Rockingham,2013,64945.57
+Virginia,Rockingham,2014,65938.56
+Virginia,Rockingham,2015,67364.65
+Virginia,Rockingham,2016,67796.52
+Virginia,Rockingham,2017,68985.64
+Virginia,Rockingham,2018,70545.63
+Virginia,Rockingham,2019,71164.04
+Virginia,Rockingham,2020,72048.57
+Virginia,Rockingham,2021,72809.61
+Virginia,Rockingham,2022,74027.54
+Virginia,Rockingham,2023,74762.41
+Virginia,Rockingham,2024,75789.01
+Virginia,Russell,2005,55051.89
+Virginia,Russell,2006,55985.18
+Virginia,Russell,2007,56536.35
+Virginia,Russell,2008,57390.79
+Virginia,Russell,2009,58141.1
+Virginia,Russell,2010,59651.97
+Virginia,Russell,2011,60908.36
+Virginia,Russell,2012,61997.41
+Virginia,Russell,2013,62377.94
+Virginia,Russell,2014,63847.74
+Virginia,Russell,2015,64893.11
+Virginia,Russell,2016,67201.29
+Virginia,Russell,2017,68377.53
+Virginia,Russell,2018,68666.86
+Virginia,Russell,2019,70254.01
+Virginia,Russell,2020,70045.38
+Virginia,Russell,2021,71500.03
+Virginia,Russell,2022,72335.28
+Virginia,Russell,2023,73066.4
+Virginia,Russell,2024,73587.37
+Virginia,Scott,2005,57427.72
+Virginia,Scott,2006,57736.81
+Virginia,Scott,2007,59101.41
+Virginia,Scott,2008,60270.07
+Virginia,Scott,2009,61254.66
+Virginia,Scott,2010,62003.41
+Virginia,Scott,2011,63257.94
+Virginia,Scott,2012,64458.16
+Virginia,Scott,2013,66112.36
+Virginia,Scott,2014,67123.44
+Virginia,Scott,2015,67680.18
+Virginia,Scott,2016,69271.74
+Virginia,Scott,2017,70634.06
+Virginia,Scott,2018,71314.14
+Virginia,Scott,2019,73155.02
+Virginia,Scott,2020,74142.14
+Virginia,Scott,2021,75525.3
+Virginia,Scott,2022,76284.8
+Virginia,Scott,2023,77666.33
+Virginia,Scott,2024,79298.65
+Virginia,Shenandoah,2005,48210.07
+Virginia,Shenandoah,2006,49032.43
+Virginia,Shenandoah,2007,50725.04
+Virginia,Shenandoah,2008,51801.28
+Virginia,Shenandoah,2009,52433.96
+Virginia,Shenandoah,2010,52949.99
+Virginia,Shenandoah,2011,54876.17
+Virginia,Shenandoah,2012,55770.85
+Virginia,Shenandoah,2013,56920.57
+Virginia,Shenandoah,2014,57796.37
+Virginia,Shenandoah,2015,58497.26
+Virginia,Shenandoah,2016,58927.19
+Virginia,Shenandoah,2017,59253.31
+Virginia,Shenandoah,2018,59413.24
+Virginia,Shenandoah,2019,60327.14
+Virginia,Shenandoah,2020,61010.65
+Virginia,Shenandoah,2021,62165.35
+Virginia,Shenandoah,2022,62872.13
+Virginia,Shenandoah,2023,63347.29
+Virginia,Shenandoah,2024,64681.89
+Virginia,Smyth,2005,53594.34
+Virginia,Smyth,2006,53835.36
+Virginia,Smyth,2007,54492.14
+Virginia,Smyth,2008,55449.98
+Virginia,Smyth,2009,56858.13
+Virginia,Smyth,2010,58568.35
+Virginia,Smyth,2011,58860.26
+Virginia,Smyth,2012,60274.42
+Virginia,Smyth,2013,61138.69
+Virginia,Smyth,2014,61811.24
+Virginia,Smyth,2015,62698.44
+Virginia,Smyth,2016,63941.5
+Virginia,Smyth,2017,65564.83
+Virginia,Smyth,2018,66649.12
+Virginia,Smyth,2019,67393.74
+Virginia,Smyth,2020,67959.33
+Virginia,Smyth,2021,68794.74
+Virginia,Smyth,2022,69845.55
+Virginia,Smyth,2023,71289.21
+Virginia,Smyth,2024,72261.65
+Virginia,Southampton,2005,55057.08
+Virginia,Southampton,2006,55321.05
+Virginia,Southampton,2007,56303.48
+Virginia,Southampton,2008,58053.31
+Virginia,Southampton,2009,58901.77
+Virginia,Southampton,2010,59221.87
+Virginia,Southampton,2011,60946.66
+Virginia,Southampton,2012,61445.22
+Virginia,Southampton,2013,61912.09
+Virginia,Southampton,2014,62658.95
+Virginia,Southampton,2015,63105.44
+Virginia,Southampton,2016,64922.36
+Virginia,Southampton,2017,66226.04
+Virginia,Southampton,2018,67392.63
+Virginia,Southampton,2019,67974.46
+Virginia,Southampton,2020,69153.33
+Virginia,Southampton,2021,69658.88
+Virginia,Southampton,2022,69764.18
+Virginia,Southampton,2023,70113.84
+Virginia,Southampton,2024,71462.05
+Virginia,Spotsylvania,2005,54041.36
+Virginia,Spotsylvania,2006,54750.55
+Virginia,Spotsylvania,2007,55952.35
+Virginia,Spotsylvania,2008,57480.9
+Virginia,Spotsylvania,2009,58650.29
+Virginia,Spotsylvania,2010,58324.51
+Virginia,Spotsylvania,2011,59168.79
+Virginia,Spotsylvania,2012,60571.27
+Virginia,Spotsylvania,2013,61351.59
+Virginia,Spotsylvania,2014,62885.02
+Virginia,Spotsylvania,2015,63787.94
+Virginia,Spotsylvania,2016,64618.68
+Virginia,Spotsylvania,2017,66341.72
+Virginia,Spotsylvania,2018,68114.85
+Virginia,Spotsylvania,2019,68770.43
+Virginia,Spotsylvania,2020,69957.94
+Virginia,Spotsylvania,2021,69915.54
+Virginia,Spotsylvania,2022,71195.18
+Virginia,Spotsylvania,2023,71466.73
+Virginia,Spotsylvania,2024,72868.16
+Virginia,Stafford,2005,60417.57
+Virginia,Stafford,2006,61545.17
+Virginia,Stafford,2007,63390.87
+Virginia,Stafford,2008,64109.51
+Virginia,Stafford,2009,65034.02
+Virginia,Stafford,2010,65537.3
+Virginia,Stafford,2011,66434.33
+Virginia,Stafford,2012,67785.91
+Virginia,Stafford,2013,69150.98
+Virginia,Stafford,2014,70017.68
+Virginia,Stafford,2015,71506.25
+Virginia,Stafford,2016,71916.21
+Virginia,Stafford,2017,72611.24
+Virginia,Stafford,2018,74150.12
+Virginia,Stafford,2019,75260.11
+Virginia,Stafford,2020,76779.58
+Virginia,Stafford,2021,78271.6
+Virginia,Stafford,2022,79766.57
+Virginia,Stafford,2023,81267.62
+Virginia,Stafford,2024,82053.41
+Virginia,Surry,2005,56475.47
+Virginia,Surry,2006,57886.69
+Virginia,Surry,2007,59742.55
+Virginia,Surry,2008,60630.06
+Virginia,Surry,2009,62018.6
+Virginia,Surry,2010,62455.69
+Virginia,Surry,2011,63746.04
+Virginia,Surry,2012,64871.57
+Virginia,Surry,2013,66440.25
+Virginia,Surry,2014,66450.85
+Virginia,Surry,2015,67511.05
+Virginia,Surry,2016,68618.09
+Virginia,Surry,2017,69416.74
+Virginia,Surry,2018,71117.87
+Virginia,Surry,2019,72418.5
+Virginia,Surry,2020,74233.87
+Virginia,Surry,2021,74593.2
+Virginia,Surry,2022,75233.19
+Virginia,Surry,2023,75725.62
+Virginia,Surry,2024,77428.85
+Virginia,Sussex,2005,44175.96
+Virginia,Sussex,2006,45371.5
+Virginia,Sussex,2007,45615.85
+Virginia,Sussex,2008,47130.06
+Virginia,Sussex,2009,47360.0
+Virginia,Sussex,2010,48795.85
+Virginia,Sussex,2011,49848.89
+Virginia,Sussex,2012,50915.16
+Virginia,Sussex,2013,52517.11
+Virginia,Sussex,2014,52770.86
+Virginia,Sussex,2015,53328.96
+Virginia,Sussex,2016,54769.82
+Virginia,Sussex,2017,55895.77
+Virginia,Sussex,2018,56528.42
+Virginia,Sussex,2019,58584.91
+Virginia,Sussex,2020,58715.54
+Virginia,Sussex,2021,59980.31
+Virginia,Sussex,2022,60819.6
+Virginia,Sussex,2023,61170.61
+Virginia,Sussex,2024,61920.74
+Virginia,Tazewell,2005,58814.23
+Virginia,Tazewell,2006,60576.93
+Virginia,Tazewell,2007,62447.88
+Virginia,Tazewell,2008,62949.59
+Virginia,Tazewell,2009,64492.04
+Virginia,Tazewell,2010,65285.99
+Virginia,Tazewell,2011,65448.06
+Virginia,Tazewell,2012,66582.47
+Virginia,Tazewell,2013,68351.05
+Virginia,Tazewell,2014,68541.02
+Virginia,Tazewell,2015,69221.45
+Virginia,Tazewell,2016,69285.23
+Virginia,Tazewell,2017,70264.53
+Virginia,Tazewell,2018,70034.6
+Virginia,Tazewell,2019,71074.65
+Virginia,Tazewell,2020,71693.85
+Virginia,Tazewell,2021,73294.18
+Virginia,Tazewell,2022,74569.05
+Virginia,Tazewell,2023,75184.63
+Virginia,Tazewell,2024,75382.22
+Virginia,Warren,2005,51260.06
+Virginia,Warren,2006,52539.69
+Virginia,Warren,2007,54147.64
+Virginia,Warren,2008,55493.02
+Virginia,Warren,2009,55864.81
+Virginia,Warren,2010,56500.33
+Virginia,Warren,2011,56798.11
+Virginia,Warren,2012,57907.79
+Virginia,Warren,2013,58080.13
+Virginia,Warren,2014,58714.92
+Virginia,Warren,2015,59091.15
+Virginia,Warren,2016,60324.51
+Virginia,Warren,2017,61323.72
+Virginia,Warren,2018,61501.39
+Virginia,Warren,2019,61822.74
+Virginia,Warren,2020,62842.36
+Virginia,Warren,2021,64058.98
+Virginia,Warren,2022,64151.75
+Virginia,Warren,2023,64567.46
+Virginia,Warren,2024,65528.75
+Virginia,Washington,2005,49796.35
+Virginia,Washington,2006,50945.93
+Virginia,Washington,2007,52283.8
+Virginia,Washington,2008,52547.17
+Virginia,Washington,2009,52865.2
+Virginia,Washington,2010,53866.6
+Virginia,Washington,2011,54315.61
+Virginia,Washington,2012,55576.33
+Virginia,Washington,2013,56235.03
+Virginia,Washington,2014,57785.07
+Virginia,Washington,2015,58770.53
+Virginia,Washington,2016,59715.62
+Virginia,Washington,2017,60470.14
+Virginia,Washington,2018,61927.05
+Virginia,Washington,2019,63468.36
+Virginia,Washington,2020,64466.18
+Virginia,Washington,2021,66203.76
+Virginia,Washington,2022,67681.26
+Virginia,Washington,2023,68644.99
+Virginia,Washington,2024,69587.57
+Virginia,Westmoreland,2005,56464.47
+Virginia,Westmoreland,2006,57115.96
+Virginia,Westmoreland,2007,57438.7
+Virginia,Westmoreland,2008,58473.13
+Virginia,Westmoreland,2009,59220.0
+Virginia,Westmoreland,2010,60646.39
+Virginia,Westmoreland,2011,61893.18
+Virginia,Westmoreland,2012,63829.74
+Virginia,Westmoreland,2013,64868.37
+Virginia,Westmoreland,2014,65522.67
+Virginia,Westmoreland,2015,67065.0
+Virginia,Westmoreland,2016,68353.53
+Virginia,Westmoreland,2017,69426.98
+Virginia,Westmoreland,2018,69587.52
+Virginia,Westmoreland,2019,70879.89
+Virginia,Westmoreland,2020,72046.04
+Virginia,Westmoreland,2021,72248.17
+Virginia,Westmoreland,2022,73394.74
+Virginia,Westmoreland,2023,74547.36
+Virginia,Westmoreland,2024,75678.99
+Virginia,Wise,2005,45282.38
+Virginia,Wise,2006,46192.98
+Virginia,Wise,2007,46759.13
+Virginia,Wise,2008,47336.86
+Virginia,Wise,2009,47963.04
+Virginia,Wise,2010,48809.39
+Virginia,Wise,2011,49534.22
+Virginia,Wise,2012,50745.7
+Virginia,Wise,2013,51383.7
+Virginia,Wise,2014,53440.93
+Virginia,Wise,2015,54833.29
+Virginia,Wise,2016,55830.7
+Virginia,Wise,2017,56708.05
+Virginia,Wise,2018,57445.19
+Virginia,Wise,2019,58879.46
+Virginia,Wise,2020,60428.7
+Virginia,Wise,2021,61181.87
+Virginia,Wise,2022,61720.89
+Virginia,Wise,2023,62441.34
+Virginia,Wise,2024,63083.42
+Virginia,Wythe,2005,57763.1
+Virginia,Wythe,2006,59732.97
+Virginia,Wythe,2007,61021.92
+Virginia,Wythe,2008,62301.59
+Virginia,Wythe,2009,63265.67
+Virginia,Wythe,2010,63668.16
+Virginia,Wythe,2011,65179.87
+Virginia,Wythe,2012,66805.41
+Virginia,Wythe,2013,68381.96
+Virginia,Wythe,2014,69397.37
+Virginia,Wythe,2015,71294.38
+Virginia,Wythe,2016,71323.12
+Virginia,Wythe,2017,72596.59
+Virginia,Wythe,2018,73436.79
+Virginia,Wythe,2019,73812.76
+Virginia,Wythe,2020,74990.88
+Virginia,Wythe,2021,76631.54
+Virginia,Wythe,2022,77328.7
+Virginia,Wythe,2023,78510.71
+Virginia,Wythe,2024,79866.6
+Virginia,York,2005,43825.79
+Virginia,York,2006,45288.11
+Virginia,York,2007,46649.39
+Virginia,York,2008,47812.28
+Virginia,York,2009,48836.15
+Virginia,York,2010,49927.37
+Virginia,York,2011,50850.93
+Virginia,York,2012,51211.4
+Virginia,York,2013,51761.59
+Virginia,York,2014,52965.57
+Virginia,York,2015,53895.78
+Virginia,York,2016,54097.37
+Virginia,York,2017,54750.6
+Virginia,York,2018,56250.74
+Virginia,York,2019,57119.23
+Virginia,York,2020,58777.05
+Virginia,York,2021,59895.87
+Virginia,York,2022,60674.47
+Virginia,York,2023,62042.62
+Virginia,York,2024,62864.53
